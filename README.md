@@ -1,8 +1,8 @@
-# 🎧 Analyzing Spotify’s Most-Streamed Songs of 2023
+#  Analyzing Spotify’s Most-Streamed Songs of 2023
 
 This Power BI dashboard project dives deep into the data behind Spotify’s most-streamed songs of 2023. From uncovering artist dominance to exploring listening patterns across days of the week, this analysis provides insights into global music consumption trends.
 
-## 📊 Project Overview
+##  Project Overview
 
 The purpose of this project was to explore and visualize Spotify's streaming data for 2023. It allowed me to develop and sharpen my data transformation and visualization skills using:
 
@@ -13,7 +13,7 @@ The purpose of this project was to explore and visualize Spotify's streaming dat
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 
 1. **🎵 Artist Dominance**  
    A small group of artists such as **Taylor Swift**, **The Weeknd**, and **Bad Bunny** consistently led streaming charts throughout the year.
@@ -26,7 +26,7 @@ The purpose of this project was to explore and visualize Spotify's streaming dat
 
 ---
 
-## 📁 Dataset
+##  Dataset
 
 The dataset contains detailed metadata for each track. Columns include:
 
@@ -52,7 +52,7 @@ The dataset contains detailed metadata for each track. Columns include:
 
 ---
 
-## 🧠 Skills Learned & Tools Used
+##  Skills Learned & Tools Used
 
 | Skill / Tool      | Description |
 |-------------------|-------------|
@@ -64,12 +64,12 @@ The dataset contains detailed metadata for each track. Columns include:
 
 ---
 
-## 📸 Dashboard Highlights
+##  Dashboard Highlights
 
 The Power BI dashboard includes:
 
-- 📈 **Top Artists & Songs** ranked by total streams  
-- 🧭 **Time-Based Trends**: daily/weekly listening behaviors  
-- 🌍 **Geographic Insights** (if region-level data is included)  
-- 🔁 **Song Longevity Tracking** across months  
-- 📅 **Release Day Impact** on streaming success  
+-  **Top Artists & Songs** ranked by total streams  
+- **Time-Based Trends**: daily/weekly listening behaviors  
+-  **Geographic Insights** (if region-level data is included)  
+-  **Song Longevity Tracking** across months  
+-  **Release Day Impact** on streaming success  
