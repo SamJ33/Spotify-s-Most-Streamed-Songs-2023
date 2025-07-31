@@ -28,15 +28,25 @@ The purpose of this project was to explore and visualize Spotify's streaming dat
 
 ## 📁 Dataset
 
-The dataset includes the top-streamed Spotify songs of 2023 and features attributes such as:
+The dataset contains detailed metadata for each track. Columns include:
 
-- Song Title  
-- Artist Name  
-- Number of Streams  
-- Release Date  
-- Genre (if available)  
-- Day of the Week  
-- Global and Regional Chart Positions  
+| Column Name             | Description |
+|-------------------------|-------------|
+| `track_name`            | Song title |
+| `artist_name`           | Main performing artist |
+| `artist_count`          | Number of contributing artists |
+| `released_year/month/day` | Release date details |
+| `in_spotify_playlists`  | Count of Spotify playlists including the track |
+| `in_spotify_charts`     | Number of times the track appeared on Spotify charts |
+| `streams`               | Total Spotify streams in 2023 |
+| `in_apple_playlists`, `in_apple_charts` | Similar chart presence data from Apple Music |
+| `in_deezer_playlists`, `in_deezer_charts` | Same for Deezer |
+| `in_shazam_charts`      | Chart appearances on Shazam |
+| `bpm`, `key`, `mode`    | Musical composition details |
+| `danceability`, `valence`, `energy` | Audio features indicating feel and mood |
+| `acousticness`, `instrumentalness`, `liveness`, `speechiness` | More nuanced audio characteristics |
+| `spotify_track_url`     | Direct Spotify link to the track |
+| `album_cover_url`       | Album art image URL | 
 
 > 📌 Note: Data was cleaned and enriched in Power Query before analysis.
 
