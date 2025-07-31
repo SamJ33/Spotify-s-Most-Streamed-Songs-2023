@@ -4,8 +4,8 @@ import time
 import traceback
 
 # Spotify API credentials (replace with your own)
-CLIENT_ID = "f4927349dfcf4d3893e33205b0746f5f"
-CLIENT_SECRET = "99a2db7d9701427c9ebf4a60c8c8797c        "
+CLIENT_ID = ""
+CLIENT_SECRET = ""
 
 # Get Spotify API token
 def get_spotify_token(client_id, client_secret):
